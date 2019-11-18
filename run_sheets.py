@@ -7,7 +7,7 @@ Note: most of code is from following Google's poorly documented documentation
 * https://developers.google.com/drive
 * https://developers.google.com/sheets/api
 
-ALso, using gspread; documentation bellow:
+Also, using gspread; documentation bellow:
 * https://gspread.readthedocs.io/en/latest/
 """
 
